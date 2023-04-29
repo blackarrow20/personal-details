@@ -1,0 +1,42 @@
+tr.dataRow {
+	cursor: pointer;
+}
+
+tr.dataRow.basic:hover {
+	background-color: #97fd9e;
+}
+
+tr.highlighted {
+	background-color: #bec2f5;
+}
+
+input.submitButton {
+	padding: 10px 20px;
+	width: 150px;
+	cursor: pointer;
+}
+
+.separator {
+	height: 10px;
+	visibility: hidden;
+	display: block;
+	margin:0 auto;
+	background: none;
+	border:0 none;
+}
+
+.column_separator {
+	width: 10px;
+}
+
+.input_field {
+	width: 150px;
+}
+
+.nowrap_class {
+	white-space: nowrap;
+}
+
+.data_table {
+	background-color: #ffffff;
+}
